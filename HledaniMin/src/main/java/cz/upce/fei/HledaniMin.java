@@ -1,4 +1,4 @@
-package com.mycompany.hledanimin;
+package cz.upce.fei;
 
 import java.util.Random;
 import java.util.Scanner;
